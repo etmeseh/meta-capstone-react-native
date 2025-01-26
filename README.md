@@ -21,7 +21,7 @@
 
 2. **Navigate to the project directory**
    ```bash
-    cd lmeta-capstone-react-native
+    cd meta-capstone-react-native
     ```
 
 3. **Install dependencies**
@@ -54,4 +54,4 @@
     This will create a build directory with all the production files.
 
 
-### _Star this repository if it is useful. Thank you ! :)_
+### _Star this repository if it is useful. Thank you !_
